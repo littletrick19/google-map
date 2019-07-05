@@ -2,16 +2,17 @@ import { LatLng } from '../location/state'
 import { ThunkDispatch } from '../../store';
 import { fetchSuccess, fetchFail } from './action';
 import { IRestaurant } from './state';
+import * as data from '../../sample-data.json'
 
 export const fetchRestaurant = (coordinate:LatLng)=>{
     return async (dispatch:ThunkDispatch)=>{
-        const res = await fetch(`https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${coordinate.lat},${coordinate.lng}&radius=100&type=restaurant&key=${process.env.REACT_APP_GOOGLE_MAP_API_KEY}`,{
-            method:"GET",
-        })
-        const json = await res.json();
-        if(res.status === 200 && json.status === "OK"){
+        // const res = await fetch(`https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${coordinate.lat},${coordinate.lng}&radius=100&type=restaurant&key=${process.env.REACT_APP_GOOGLE_MAP_API_KEY}`,{
+        //     method:"GET",
+        // })
+        // const data = await res.json();
+        // if(res.status === 200 && data.status === "OK"){
             const restaurants = [] as IRestaurant[];
-            json.results.forEach((result:any)=>{
+            data.results.forEach((result:any)=>{
                 const restaurant = {} as any;
                 restaurant['id'] = result.id;
                 restaurant['name'] = result.name;
@@ -26,8 +27,8 @@ export const fetchRestaurant = (coordinate:LatLng)=>{
                 restaurants.push(restaurant);
             })
                 dispatch(fetchSuccess(restaurants))
-        }else{
-            dispatch(fetchFail(json.error_message))
-        }
+        // }else{
+        //     dispatch(fetchFail(data.error_message))
+        // }
     }
 }

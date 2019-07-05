@@ -1,0 +1,27 @@
+#homepage{
+    position: relative;
+    .list{
+        position: absolute;
+        z-index: 1;
+        right: 0;
+        margin: 10px;
+        width:30vw;
+        min-width:200px;
+        max-height:95vh;
+        .list-item{
+            white-space: normal;
+            height: 10vh;
+            display: flex;
+            align-items: center;
+        }
+    }
+    .page{
+        margin: 10px 10px 0px 10px;
+        display: flex;
+        justify-content: center;
+        .pagination{
+            margin-bottom:0px
+        }
+    }
+}
+

@@ -1,14 +1,14 @@
 import React from 'react';
-import './App.css';
-import Map from './component/map'
+import './App.scss';
 import { Provider } from 'react-redux';
 import store from './store';
+import Homepage from './page/homepage';
 
 const App: React.FC = () => {
   return (
     <Provider store={store}>
       <div className="App">
-        <Map />
+        <Homepage />
       </div>
     </Provider>
   );

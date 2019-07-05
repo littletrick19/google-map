@@ -1,12 +1,12 @@
-import { IRestaurantState } from "./state";
-import { IRestaurantActions } from "./action";
+import { INearbyRestaurantState } from "./state";
+import { INearbyRestaurantActions } from "./action";
 
-const initialState:IRestaurantState = {
+const initialState:INearbyRestaurantState = {
     restaurants:[],
     msg:""
 }
 
-export const restaurantReducer = (state:IRestaurantState = initialState, action: IRestaurantActions)=>{
+export const nearbyRestaurantReducer = (state:INearbyRestaurantState = initialState, action: INearbyRestaurantActions)=>{
     switch(action.type){
         case "@@FETCH_SUCCESS":
             return {...state, restaurants:action.restaurants}

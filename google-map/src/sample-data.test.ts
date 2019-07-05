@@ -1,5 +1,5 @@
 import * as json from './sample-data.json';
-import {IRestaurant} from './redux/restaurants/state'
+import {IRestaurant} from './redux/nearby-restaurants/state'
 
 const sampleRestaurant: IRestaurant = {
     id: "69030a2be9fe81cc3db1267412909985e3112017",

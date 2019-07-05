@@ -20,8 +20,8 @@ export const clearMsg = ()=>{
     }
 }
 
-type RestaurantActionsCreators = typeof fetchSuccess|
-                                 typeof fetchFail|
-                                 typeof clearMsg
+type NearbyRestaurantActionsCreator = typeof fetchSuccess|
+                                        typeof fetchFail|
+                                        typeof clearMsg
 
-export type IRestaurantActions = ReturnType<RestaurantActionsCreators>
+export type INearbyRestaurantActions = ReturnType<NearbyRestaurantActionsCreator>

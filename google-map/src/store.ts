@@ -1,18 +1,18 @@
 import { createStore, compose, combineReducers, applyMiddleware } from "redux";
 import logger from "redux-logger";
 import thunk, { ThunkAction, ThunkDispatch } from "redux-thunk";
-import { IRestaurantState } from "./redux/restaurants/state";
-import { IRestaurantActions } from "./redux/restaurants/action";
-import { restaurantReducer } from "./redux/restaurants/reducer";
+import { INearbyRestaurantState } from "./redux/nearby-restaurants/state";
+import { INearbyRestaurantActions } from "./redux/nearby-restaurants/action";
+import { nearbyRestaurantReducer } from "./redux/nearby-restaurants/reducer";
 import { ILocationState } from "./redux/location/state";
 import { locationReducer } from "./redux/location/reducer";
 
 export interface IRootState{
     location: ILocationState,
-    restaurant: IRestaurantState
+    nearbyRestaurant: INearbyRestaurantState
 }
 
-type IRootActions = IRestaurantActions
+type IRootActions = INearbyRestaurantActions
 
 declare global{
     interface Window{
@@ -22,7 +22,7 @@ declare global{
 
 const rootReducer = combineReducers<IRootState>({
     location: locationReducer,
-    restaurant: restaurantReducer
+    nearbyRestaurant: nearbyRestaurantReducer
 })
 
 export type ThunkResult<R> = ThunkAction<R, IRootState, null, IRootActions>

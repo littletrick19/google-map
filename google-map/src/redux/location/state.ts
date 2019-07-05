@@ -4,5 +4,6 @@ export interface LatLng{
 }
 
 export interface ILocationState{
-    coordinate: LatLng
+    coordinate: LatLng,
+    zoom: number
 }

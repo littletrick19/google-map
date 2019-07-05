@@ -11,7 +11,7 @@ export interface IRestaurant {
     vicinity:string
 }
 
-export interface IRestaurantState{
-    restaurants?: Array<IRestaurant>
+export interface INearbyRestaurantState{
+    restaurants: Array<IRestaurant>
     msg?: string
 }

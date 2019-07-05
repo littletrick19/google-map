@@ -1,8 +1,12 @@
 import { LatLng } from "./state";
 
-export const locationInit = (coordinate:LatLng)=>{
+export const locationRecenter = (coordinate:LatLng)=>{
     return{
-        type: "@@FETCH_INIT" as "@@FETCH_INIT",
+        type: "@@LOCATION_RECENTER" as "@@LOCATION_RECENTER",
         coordinate
     }
 }
+
+type LocationActionCreator = typeof locationRecenter
+
+export type ILocationActions = ReturnType<LocationActionCreator>
