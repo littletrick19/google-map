@@ -2,14 +2,13 @@ import * as json from './sample-data.json';
 import {IRestaurant} from './redux/nearby-restaurants/state'
 
 const sampleRestaurant: IRestaurant = {
-    id: "69030a2be9fe81cc3db1267412909985e3112017",
-    name: "McDonald's",
-    coordinate: {lat:22.3713671, lng:114.1387429},
+    id: "641d95afb491e9e91ed41354ccee9f37cd98e408",
+    name: "Jin Luo Bao Korean Restaurant",
+    coordinate: {lat:22.2805, lng:114.184929},
     open_now: true,
-    price_level: 1,
-    rating: 3.4,
-    user_rating_total: 81,
-    vicinity: "葵涌石蔭邨石蔭商場二樓213及214號舖"
+    rating: 4.2,
+    user_rating_total: 129,
+    vicinity: "Island Centre, 號 金 百 利 商業 中心 6 樓, 1 Great George Street, Causeway Bay"
 }
 
 describe('the unpacking of data in thunk action',()=>{

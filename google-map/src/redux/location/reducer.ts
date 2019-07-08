@@ -1,16 +1,19 @@
 import { ILocationState } from "./state";
 import { ILocationActions } from "./action";
 
-const initialState:ILocationState = {
-    coordinate:{lat:22.371276,lng:114.1399981},
-    zoom: 18
-    // coordinate:{lat:22.28005,lng:114.184877}
+export const initialState:ILocationState = {
+    coordinate:{lat:22.28005,lng:114.184877},
+    zoom: 19
 }
 
 export const locationReducer = (state:ILocationState = initialState, action:ILocationActions)=>{
     switch(action.type){
+        case "@@LOCATION_RETRIEVE":
+            return {...state, coordinate:action.currentCoordinate}
         case "@@LOCATION_RECENTER":
-            return {...state, coordinate:action.coordinate}
+            return {...state, coordinate:action.coordinate, zoom:19}
+        case "@@LOCATION_FAIL":
+            return {...state, msg:"Failed in locating"}
     }
     return state
 }

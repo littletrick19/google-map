@@ -1,3 +1,4 @@
+/*global google*/
 import React, { useEffect } from 'react'
 import { GoogleMap, useLoadScript, MarkerClusterer, Marker } from '@react-google-maps/api'
 import { Loader } from './loader'
@@ -6,11 +7,13 @@ import { connect } from 'react-redux'
 import { LatLng, ILocationState } from '../redux/location/state'
 import { fetchRestaurant } from '../redux/nearby-restaurants/thunk'
 import { IRestaurant } from '../redux/nearby-restaurants/state';
+import markerIcon from '../icons/marker.png';
 
 interface IMapProps {
   location: ILocationState,
   restaurants: IRestaurant[],
-  fetchRestaurant: (coordinate: LatLng) => void
+  fetchRestaurant: (coordinate: LatLng) => void,
+  onMarkerClick: (i:number|null)=>void
 }
 
 const Map: React.FC<IMapProps> = (props: IMapProps) => {
@@ -20,7 +23,7 @@ const Map: React.FC<IMapProps> = (props: IMapProps) => {
 
   useEffect(() => {
     props.fetchRestaurant(props.location.coordinate)
-  },[])
+  },[props.location.coordinate])
 
   const render = () => {
     return (
@@ -37,8 +40,15 @@ const Map: React.FC<IMapProps> = (props: IMapProps) => {
             props.restaurants.map((restaurant: IRestaurant, i: number) => (
               <Marker
                 key={i}
+                icon={{
+                  url:markerIcon,
+                  anchor: new google.maps.Point(15,30),
+                  scaledSize: new google.maps.Size(5, 5, "vw", "vw")
+                }}
                 position={restaurant.coordinate}
                 clusterer={clusterer}
+                onMouseDown={props.onMarkerClick.bind(i,i)}
+                onMouseUp={props.onMarkerClick.bind(i,null)}
               />
             ))
           }

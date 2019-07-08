@@ -1,99 +1,47 @@
 {
     "html_attributions": [],
-    "next_page_token": "CrQCIQEAAFQzN-uXzNp3uWqWJDs-lXiakLGH7mlJ5UBiueqBVMfoJ5qIfo8XrIUDcaC_I4Wv50p35ofPDTe5u1ue5y7nOp_XtHvdO2OSwQ0PVInxIl7XrAqIlltX7Fqf0HMlG8seVTKU0YsI4TfsZkxVpdFq7w-QTVzbz0IOD5uBb1BVrP6DKy3zvCWdYNvOO3Oy9BCjig9JEBgpfuLMzAtXghvmO4HvfSlDUl4ry2AN_XyTmQ6clfkaFT1Nnr-P6Q3O0BeqGGfiFqm9UNv_aaX_ABlvLWCgMAwDY8L6UQ3_H49TPY3oFgsmzOGH_yGowaC3311vsGrT6iYxVHKWvS9riiC5viytjLOvfC5AsykMDbP_9e2fvzYv40ujii_gQeyIHYJDAfwTjtnu-1bEM12Sxzebl58SEO7WmB6TQchIYKU4GXKwhnUaFI6RK2zTH303UeXoxZXI6KpT1EGq",
+    "next_page_token": "CrQCIQEAAM0eT0nKJYZeFS-7eB68YovLE3O4_yM-_BCwO40l12ps6pGv9o094Cpy7H84thL5jgP0U5DvFyzb_l6b-7zMoQ92NS3Hoak2eFQ7sPHRmaF8sk01U44pJFv5UG4yUWgHQC6g5XEdTcrqJu2N5uNgcw8Hki2GJNbFoe9fqT_XB35to7xH9X2aKuOfgOTa0HGDnSZxDX5PpHpVsT3pR9CXX7ikN-EwsJQ5QmqsBch2wpbFc7gfkW-A0TQJQdzn-foX5dcR4aqj16oNnnuIBHDcdRDMwIJ6t1x3eDi5Cbf8YQIuTFmy_oK15tzxFOl6BWUiHOL0hp-KYKIz981s1Q-_t4jTuL8-wH2FjP1h_t60ptZ0SB32ajAVn3c0o8_Qvmtn7hhGUXkP81qXNKWKRPxWv4QSEN64VZyGv1Vl5W-W7HsyKHwaFINM46ZfCEE0vI6E21QHrS1KyR8S",
     "results": [
         {
             "geometry": {
                 "location": {
-                    "lat": 22.3713671,
-                    "lng": 114.1387429
+                    "lat": 22.2805,
+                    "lng": 114.184929
                 },
                 "viewport": {
                     "northeast": {
-                        "lat": 22.3727160802915,
-                        "lng": 114.1400918802915
+                        "lat": 22.2817326302915,
+                        "lng": 114.1863339802915
                     },
                     "southwest": {
-                        "lat": 22.3700181197085,
-                        "lng": 114.1373939197085
+                        "lat": 22.27903466970849,
+                        "lng": 114.1836360197085
                     }
                 }
             },
             "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "69030a2be9fe81cc3db1267412909985e3112017",
-            "name": "McDonald's",
+            "id": "641d95afb491e9e91ed41354ccee9f37cd98e408",
+            "name": "Jin Luo Bao Korean Restaurant",
             "opening_hours": {
                 "open_now": true
             },
             "photos": [
                 {
-                    "height": 3024,
+                    "height": 1494,
                     "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/104680874746921766223/photos\"\u003eRicky Chan\u003c/a\u003e"
+                        "<a href=\"https://maps.google.com/maps/contrib/109710722346089983510/photos\">Chris Wong</a>"
                     ],
-                    "photo_reference": "CmRaAAAAr8vM_GwWlMyV7IVihvOsZUEDi9r7WJgd4GyEBLTl9CCAWPPPuk2YYgDCHL3DLga3W0slrmIyfURdyksnUdeIRWsq927NPtbdJkxtMzWuO4Tkc-fRx7uyID0AOMTBbTO7EhCZsqMHVCN5CFrYie8eQQ80GhSoNOFihXMd3ezAJXLnJFZHIZb91A",
-                    "width": 4032
+                    "photo_reference": "CmRZAAAAiIXtyCFmmkJu1LdHbtWnZb6TxJnUwg6r93AJWJTqNP3n9zJDgYZI0EvaRFX0EE_kgZqgpZ2qVwob1rNfgHbZc5gTepH7AA--8s_3U7wcNz5_ehR-QIkJ_3cmtPt13dagEhAoE5in8JUHvyrJR7uzp4VNGhSnJSTJJif2-Yf7DEmvhyo6RbUr0A",
+                    "width": 3264
                 }
             ],
-            "place_id": "ChIJeem0ZYP4AzQRc-CJXq2a7xA",
+            "place_id": "ChIJQV1HmlYABDQRYBklaXvs5uc",
             "plus_code": {
-                "compound_code": "94CQ+GF Kwai Chung, Hong Kong",
-                "global_code": "7PJP94CQ+GF"
+                "compound_code": "75JM+6X Hong Kong",
+                "global_code": "7PJP75JM+6X"
             },
-            "price_level": 1,
-            "rating": 3.4,
-            "reference": "ChIJeem0ZYP4AzQRc-CJXq2a7xA",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 81,
-            "vicinity": "葵涌石蔭邨石蔭商場二樓213及214號舖"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3708611,
-                    "lng": 114.1379734
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3722323802915,
-                        "lng": 114.1392862302915
-                    },
-                    "southwest": {
-                        "lat": 22.3695344197085,
-                        "lng": 114.1365882697085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "66b34fff549334ee65736a23c5ba4d63c6c17d28",
-            "name": "Yunnan Noodle",
-            "opening_hours": {
-                "open_now": true
-            },
-            "photos": [
-                {
-                    "height": 3024,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/118007985524377502664/photos\"\u003eCC K\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRaAAAACtv62GX33HbKeCI-5AvuMSA_ZbDMrtomC-JubgGDtQSmaB5o2-HLl6yciZafAbFI08J45QKe08QC0qKW2qqcYBPpXzUzHMdGfIdWEI_YGeXx66Pq_UjhQpXpEM-cSW32EhDnvWRgxpxe9RmGOR12WlklGhTXAVCMzw5FQKT8T2HJx_PQFx_UQQ",
-                    "width": 4032
-                }
-            ],
-            "place_id": "ChIJ0zPiX4P4AzQRBRRRLS0sVQg",
-            "plus_code": {
-                "compound_code": "94CQ+85 Hong Kong",
-                "global_code": "7PJP94CQ+85"
-            },
-            "price_level": 1,
             "rating": 4.2,
-            "reference": "ChIJ0zPiX4P4AzQRBRRRLS0sVQg",
+            "reference": "ChIJQV1HmlYABDQRYBklaXvs5uc",
             "scope": "GOOGLE",
             "types": [
                 "restaurant",
@@ -101,198 +49,50 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 208,
-            "vicinity": "112 Lei Muk Road, Kwai Chung"
+            "user_ratings_total": 129,
+            "vicinity": "Island Centre, 號 金 百 利 商業 中心 6 樓, 1 Great George Street, Causeway Bay"
         },
         {
             "geometry": {
                 "location": {
-                    "lat": 22.3715585,
-                    "lng": 114.1385939
+                    "lat": 22.2798863,
+                    "lng": 114.1848654
                 },
                 "viewport": {
                     "northeast": {
-                        "lat": 22.37290748029151,
-                        "lng": 114.1399428802915
+                        "lat": 22.2813037302915,
+                        "lng": 114.1862419802915
                     },
                     "southwest": {
-                        "lat": 22.3702095197085,
-                        "lng": 114.1372449197085
+                        "lat": 22.2786057697085,
+                        "lng": 114.1835440197085
                     }
                 }
             },
             "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "e53adba86155ec5cb03ddbfaf41d86e54caae817",
-            "name": "鳴門創作料理",
-            "photos": [
-                {
-                    "height": 3024,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/114163153574320908865/photos\"\u003eTak Kan Lau\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRaAAAAhIEuph8DGSPkdxwVrKLmhMOhkOwOfu0r1dw381_Da-Tosls46dNG_rJGHzWSl6siSmVPrrSSOP-9LO1F07i0tyKHbGLNzIh9p2U76l6bZRvFCcWb1eoTBZTHcSxOvk_wEhDNd1TqUTCOrf9KsUO40ucNGhR4pL2GFrpkzOxgVp4aePpYxNAqVQ",
-                    "width": 4032
-                }
-            ],
-            "place_id": "ChIJ-fjHZYP4AzQRBCB5DxAXBjk",
-            "plus_code": {
-                "compound_code": "94CQ+JC Hong Kong",
-                "global_code": "7PJP94CQ+JC"
-            },
-            "rating": 3.5,
-            "reference": "ChIJ-fjHZYP4AzQRBCB5DxAXBjk",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 11,
-            "vicinity": "葵涌石蔭邨石蔭商場LG205-206號舖"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3707269,
-                    "lng": 114.1418857
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3720376802915,
-                        "lng": 114.1432140302915
-                    },
-                    "southwest": {
-                        "lat": 22.3693397197085,
-                        "lng": 114.1405160697085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "e7c6c74b9b826d1132ee09b56061df94b8d679a5",
-            "name": "Fairwood",
-            "opening_hours": {
-                "open_now": true
-            },
-            "photos": [
-                {
-                    "height": 2988,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/104732482279735146246/photos\"\u003eFanny Ng\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRaAAAACoKRosUrCZAFJ8jrPwBOUbOEzJkYobKvhoZcPpXAcTmnAicRETecV9abZEXLvvAHLLg5FMR2HNhIJbGfsQg3Uc_J2fbTB9_V-5iwiV6GGKPxOfxFzs3vrfBkWgy6rYMOEhDgGniDxWF97fsxx_2FTLhmGhRLEo7BwOvUyseZclNrSxs8g21PoQ",
-                    "width": 5312
-                }
-            ],
-            "place_id": "ChIJG3-C5YL4AzQRPUlBY9Zto7Q",
-            "plus_code": {
-                "compound_code": "94CR+7Q Hong Kong",
-                "global_code": "7PJP94CR+7Q"
-            },
-            "price_level": 1,
-            "rating": 3.2,
-            "reference": "ChIJG3-C5YL4AzQRPUlBY9Zto7Q",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 64,
-            "vicinity": "葵涌安蔭村安蔭商場地下2號舖"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.36938679999999,
-                    "lng": 114.1391227
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3706895802915,
-                        "lng": 114.1404237802915
-                    },
-                    "southwest": {
-                        "lat": 22.36799161970849,
-                        "lng": 114.1377258197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "630ef1b7332062fca5f460ce0125e0410e576271",
-            "name": "Hoi Fa Kit Guo",
+            "id": "d2e07f37635fa80c46cbfd7f3bc103298310cc4d",
+            "name": "Le Marron",
             "opening_hours": {
                 "open_now": false
             },
             "photos": [
                 {
-                    "height": 4248,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/117598864830856317980/photos\"\u003eFrankie Wong\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRaAAAA7eiwDGVqszW15lBzktCWdoebgrEGulr8xWKSWAuCnOxQJ64dBnjW1dO1ZqCQfc2bq7fjAbMP181BMCXY7FVA-XJHKZxfJaqOchUFKiWVsJUqlfiahcjyv_0ySTagfFRdEhASJ19NVB2SrEv-5L8HdIibGhSn2D576xxssA-kdkwEkkg6bj22lQ",
-                    "width": 5664
-                }
-            ],
-            "place_id": "ChIJQ_Katpz4AzQR6MpAln8kZQg",
-            "plus_code": {
-                "compound_code": "949Q+QJ Hong Kong",
-                "global_code": "7PJP949Q+QJ"
-            },
-            "rating": 4.1,
-            "reference": "ChIJQ_Katpz4AzQR6MpAln8kZQg",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 108,
-            "vicinity": "葵涌和宜合道166號地下9號舖"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3713851,
-                    "lng": 114.1387771
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3727340802915,
-                        "lng": 114.1401260802915
-                    },
-                    "southwest": {
-                        "lat": 22.3700361197085,
-                        "lng": 114.1374281197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "a2bcf4fb1383a01442cd6d500a95167c517566b2",
-            "name": "Maxim's Mx - Shek Yam",
-            "opening_hours": {
-                "open_now": true
-            },
-            "photos": [
-                {
                     "height": 3024,
                     "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/100090392719636724988/photos\"\u003eHerman Lui\u003c/a\u003e"
+                        "<a href=\"https://maps.google.com/maps/contrib/103444431006497543714/photos\">Joseph Tang</a>"
                     ],
-                    "photo_reference": "CmRaAAAAtsxyf62OD9qyR4Ks3e8pIkLh7Pic8NtcGLIDfp1DJZaAvOYsNS7-NoiPQkRIg-mjgU9tCWV2WHvodvk6NgOuSoJwdPtbjXW9LAYCU4VwOhheqgNQ8ZvU3V0KmSiWedXBEhCqRQOOsHHftt9QrtKDZ0AFGhQyiaHCNP1gdYgkXB8fj4ry3nVq_g",
+                    "photo_reference": "CmRaAAAAIfOBsP1SX5sHMSp1ZaFKYbUsjA4O20Zp4tahDBofIbx4RRisJS-Xg0s7iuHoVYowcbT0WYNyXvaLKguzWO0m51ujX0lDPcJoIgIA8lEhhyojhsPcSIWfmu1ch2romuu_EhDAvCwVpjIXhD2FeR2M0yFDGhT5ZyDC_k7iF0VycdvmJxXXB15PPA",
                     "width": 4032
                 }
             ],
-            "place_id": "ChIJGTSnZoP4AzQRyk51G_Ks_kU",
+            "place_id": "ChIJ2aAkvVYABDQRc9kfY-UjB1E",
             "plus_code": {
-                "compound_code": "94CQ+HG Hong Kong",
-                "global_code": "7PJP94CQ+HG"
+                "compound_code": "75HM+XW Hong Kong",
+                "global_code": "7PJP75HM+XW"
             },
             "price_level": 2,
-            "rating": 3.4,
-            "reference": "ChIJGTSnZoP4AzQRyk51G_Ks_kU",
+            "rating": 3.8,
+            "reference": "ChIJ2aAkvVYABDQRc9kfY-UjB1E",
             "scope": "GOOGLE",
             "types": [
                 "restaurant",
@@ -300,267 +100,49 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 15,
-            "vicinity": "Kwai Chung"
+            "user_ratings_total": 128,
+            "vicinity": "銅鑼灣怡和街2-6號英光大廈12/F"
         },
         {
             "geometry": {
                 "location": {
-                    "lat": 22.371555,
-                    "lng": 114.13861
+                    "lat": 22.280281,
+                    "lng": 114.18424
                 },
                 "viewport": {
                     "northeast": {
-                        "lat": 22.3729039802915,
-                        "lng": 114.1399589802915
+                        "lat": 22.2815785802915,
+                        "lng": 114.1855910302915
                     },
                     "southwest": {
-                        "lat": 22.3702060197085,
-                        "lng": 114.1372610197085
+                        "lat": 22.2788806197085,
+                        "lng": 114.1828930697085
                     }
                 }
             },
             "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "e898349d0676aab836f8db078999cc55b66c46c8",
-            "name": "Ngan Lung Restaurant-shek Yam Estate",
+            "id": "1e0318b5dce90605c693d2381ee976fffb35cadb",
+            "name": "Wa San Mai",
             "opening_hours": {
                 "open_now": false
             },
             "photos": [
                 {
-                    "height": 2592,
+                    "height": 2976,
                     "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/103335330130922325091/photos\"\u003eZilla Hui\u003c/a\u003e"
+                        "<a href=\"https://maps.google.com/maps/contrib/115758432490078633201/photos\">eric tsang</a>"
                     ],
-                    "photo_reference": "CmRaAAAAlqR0WCMgeDKJbtoIqPxe_kl0d5hNlJ7rQsEioosHe0U-TuLbCMC8o9ZFs-QZ9S9n0zOuwaxQ7gR_BQFAEWtKxbWOt-UJ5h5lrCYXORggUtqmAkxCQEU9gvD4vkqBs4zlEhA2wLtJWaaBHUejC4W0AihpGhSf3_gJrXQ7cx6dPoPWtkO7ISmCiw",
-                    "width": 4608
+                    "photo_reference": "CmRaAAAAgXo9ncUiMCA3q4EarPgzMWyX24g9qKdIxfdRLUPTGJkv9ZhzuE6AlVJ4-HRxvDFXrrW_ensRXlsgmMr0Gl7XfzHBxITx2sTOGB01Ucm_rYnpSCV70PYHEmH73UQLoYj1EhBM9BTISMfyD6rEa0idGLNzGhQ3Z3_zTk4mVI-7PtuIXfjaBSBnag",
+                    "width": 3968
                 }
             ],
-            "place_id": "ChIJo84ko4P4AzQRKChq4Mqx8aU",
+            "place_id": "ChIJcYQJlVYABDQRHhUZuevfUtE",
             "plus_code": {
-                "compound_code": "94CQ+JC Hong Kong",
-                "global_code": "7PJP94CQ+JC"
-            },
-            "price_level": 2,
-            "rating": 3.3,
-            "reference": "ChIJo84ko4P4AzQRKChq4Mqx8aU",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 8,
-            "vicinity": "石蔭商場9號舖"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3708778,
-                    "lng": 114.1384914
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3722267802915,
-                        "lng": 114.1398403802915
-                    },
-                    "southwest": {
-                        "lat": 22.36952881970849,
-                        "lng": 114.1371424197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "21169fd9d8c023067d4cebe4d967f43cd2601da0",
-            "name": "Ocean Treasure Seafood Restaurant",
-            "opening_hours": {
-                "open_now": true
-            },
-            "photos": [
-                {
-                    "height": 4608,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/117371814726805622559/photos\"\u003eTommy Law羅\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRaAAAAtv5kYo8HDVKq_ZZTsYQn6dV0MUa3RyuA0FJzYnqMv8VHFSiXAYn8PrfgnyDD53hGlgjnAG7FCJW11XaQnKpzmpgbCImgerf9kP3CCIkFXUvGe-1olL8Zq5rBglGYKLnPEhDLVj8vIjQMWFZ9DR-BbkSOGhT081VAnoLxnmTAOX4FCpx0D15saA",
-                    "width": 3456
-                }
-            ],
-            "place_id": "ChIJMR73Q4P4AzQRc475ctmD-k8",
-            "plus_code": {
-                "compound_code": "94CQ+99 Hong Kong",
-                "global_code": "7PJP94CQ+99"
-            },
-            "price_level": 2,
-            "rating": 3.4,
-            "reference": "ChIJMR73Q4P4AzQRc475ctmD-k8",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 87,
-            "vicinity": "葵涌石蔭路149-151號福蔭大廈地下及二樓"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3692678,
-                    "lng": 114.1392619
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3705720302915,
-                        "lng": 114.1405483802915
-                    },
-                    "southwest": {
-                        "lat": 22.3678740697085,
-                        "lng": 114.1378504197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "ff3c58657b4d930d31e188b513ace24fbf9928af",
-            "name": "Lily's Dumpling Kingdom",
-            "photos": [
-                {
-                    "height": 2988,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/114118776566826978542/photos\"\u003eJeff Choi\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRaAAAA44e0OXR-W-3D1mtA6tQ3mfWbehA3oqnW7rew6xz6MRy4x9Xl_T5w_0RVQ0pseUOhqUcq19m6UWcQyamqAHgwMSfU7DnNbtrod1Giz5MtcNPgLx6iXPU1stjUXMTWRJRPEhCWTVYkloBH_ewe3Q6JjEI6GhRlG5G4zy5PIkwMOq18wbnKs3sN4g",
-                    "width": 5312
-                }
-            ],
-            "place_id": "ChIJrQv0tJz4AzQRpsZiWT31nfs",
-            "plus_code": {
-                "compound_code": "949Q+PP Hong Kong",
-                "global_code": "7PJP949Q+PP"
-            },
-            "rating": 3.2,
-            "reference": "ChIJrQv0tJz4AzQRpsZiWT31nfs",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 22,
-            "vicinity": "148 Wo Yi Hop Road, Shek Yam"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3707734,
-                    "lng": 114.1379178
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3721223802915,
-                        "lng": 114.1392667802915
-                    },
-                    "southwest": {
-                        "lat": 22.3694244197085,
-                        "lng": 114.1365688197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "e27976aec28745ec2c691a46f3e79ae14991ca87",
-            "name": "家家樂素食快餐廳",
-            "photos": [
-                {
-                    "height": 3024,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/104733929501244059430/photos\"\u003eCristo Wong\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRaAAAAXop2TUd0AK6uzfxhRbNW3AxYtUB1w0tLgKKh1ADzcfuwTBWO2KSpiIuUdUrfJ0iWIbYAtwxzPP83BDlkj_gKtwDGIvVTgdu-9H-jyw3-6es62aSRqk7v-sTJRyw9tIvNEhCWDEOZtQaGsUv5nP2Q52HdGhTuHCph7RSn8stictpuZm4t_s9OCA",
-                    "width": 4032
-                }
-            ],
-            "place_id": "ChIJ0zPiX4P4AzQR3RVvvpkDhIE",
-            "plus_code": {
-                "compound_code": "94CQ+85 Hong Kong",
-                "global_code": "7PJP94CQ+85"
-            },
-            "rating": 4,
-            "reference": "ChIJ0zPiX4P4AzQR3RVvvpkDhIE",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 5,
-            "vicinity": "葵涌梨木道112號葵寶大廈7號地下"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.371546,
-                    "lng": 114.138592
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3728949802915,
-                        "lng": 114.1399409802915
-                    },
-                    "southwest": {
-                        "lat": 22.3701970197085,
-                        "lng": 114.1372430197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "a7059b64556b5498f59b4cf7c2e760e73b82dbd2",
-            "name": "Naruto Creative Cuisine",
-            "place_id": "ChIJ-fjHZYP4AzQRxIy4mTfPHpg",
-            "plus_code": {
-                "compound_code": "94CQ+JC Hong Kong",
-                "global_code": "7PJP94CQ+JC"
-            },
-            "reference": "ChIJ-fjHZYP4AzQRxIy4mTfPHpg",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Shop LG205-206, G/F, Shek Yam Shopping Centre, Shek Yam Estate, Kwai Chung"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3707734,
-                    "lng": 114.1379178
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3721223802915,
-                        "lng": 114.1392667802915
-                    },
-                    "southwest": {
-                        "lat": 22.3694244197085,
-                        "lng": 114.1365688197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "0a9915f855f224135f31f0142923ae5695a1d930",
-            "name": "Ka Ka Lok Fast Food Shop",
-            "place_id": "ChIJ0zPiX4P4AzQR9xcj2myd9PU",
-            "plus_code": {
-                "compound_code": "94CQ+85 Hong Kong",
-                "global_code": "7PJP94CQ+85"
+                "compound_code": "75JM+4M Hong Kong",
+                "global_code": "7PJP75JM+4M"
             },
             "rating": 4.3,
-            "reference": "ChIJ0zPiX4P4AzQR9xcj2myd9PU",
+            "reference": "ChIJcYQJlVYABDQRHhUZuevfUtE",
             "scope": "GOOGLE",
             "types": [
                 "restaurant",
@@ -568,46 +150,397 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 3,
-            "vicinity": "Shop 7, G/F, Kwai Po Building, 112 Lei Muk Road, Kwai Chung"
+            "user_ratings_total": 135,
+            "vicinity": "East Point Centre, 22, 555 Hennessy Road, Causeway Bay"
         },
         {
             "geometry": {
                 "location": {
-                    "lat": 22.3700482,
-                    "lng": 114.1383238
+                    "lat": 22.2799988,
+                    "lng": 114.1841624
                 },
                 "viewport": {
                     "northeast": {
-                        "lat": 22.3713654802915,
-                        "lng": 114.1396401802915
+                        "lat": 22.2813877302915,
+                        "lng": 114.1855094302915
                     },
                     "southwest": {
-                        "lat": 22.3686675197085,
-                        "lng": 114.1369422197085
+                        "lat": 22.2786897697085,
+                        "lng": 114.1828114697085
                     }
                 }
             },
             "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "c77da358dfe4a87928e3b69c2be4c312c2df0ab2",
-            "name": "金森林小食店",
+            "id": "42ebbb2ef01fb785424b5ee5f14c4f32f61a0a20",
+            "name": "Gaia Veggie Shop",
+            "opening_hours": {
+                "open_now": true
+            },
             "photos": [
                 {
-                    "height": 4608,
+                    "height": 3464,
                     "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/116980833639004728804/photos\"\u003e肥邦邦\u003c/a\u003e"
+                        "<a href=\"https://maps.google.com/maps/contrib/118107296774096266164/photos\">Tony KUNG</a>"
                     ],
-                    "photo_reference": "CmRaAAAAbRA95_w0zSMjYnfhF7Xe8tPxVGlcncCVBFwr63v3B52G7Epdbf5Chs_hrM8swVSdrxSBuZ7l41iBviKQt5dK7icIzzbdkBMkKAZOqniOPAehxUYsO9GVWaw-t4QhWz1_EhCfSqbweop_VKxnVnFeDkgdGhScKCfEYyjZoCgD0vid_oFGm3kPGw",
-                    "width": 3456
+                    "photo_reference": "CmRaAAAA9xvST_MAOsMIkEXaq40YF4Gm7bkBcXtWW2xTEZ8p7fIZUuy6FZf4SvjpncGFmfl8xr4odF9P_6REFDxHv8T9gIXftjYZTSdAxzIzJYR1ZCcKkRBokdCQwKww6QiJr5ROEhCBTOfhHLrTq3sBa73yIJs6GhQ4kMHyF2fgn0-9bv7yUK2SzmONgA",
+                    "width": 4618
                 }
             ],
-            "place_id": "ChIJqR9sVoP4AzQRS6Ois5ELCtk",
+            "place_id": "ChIJAewvv1YABDQRRFO-IgRYUfo",
             "plus_code": {
-                "compound_code": "94CQ+28 Hong Kong",
-                "global_code": "7PJP94CQ+28"
+                "compound_code": "75HM+XM Hong Kong",
+                "global_code": "7PJP75HM+XM"
             },
-            "rating": 5,
-            "reference": "ChIJqR9sVoP4AzQRS6Ois5ELCtk",
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJAewvv1YABDQRRFO-IgRYUfo",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 142,
+            "vicinity": "8樓, 黃金廣場, 502號 軒尼詩道, 銅鑼灣"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.2798561,
+                    "lng": 114.1842965
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2812671802915,
+                        "lng": 114.1857214302915
+                    },
+                    "southwest": {
+                        "lat": 22.2785692197085,
+                        "lng": 114.1830234697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "747bfbf64d7f99a88bf40c166e3602da3ab7d338",
+            "name": "The Mon",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107693385891457445148/photos\">Rene So</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4XT0GkbRs8lZms1YSJ0MjZ3y-RPSnoPqilXFn6g04O54EQH7MNiFOj6MsDb6wznZ1L08054XBAR95ZL2femqVRGE4GPvWH-5vrt8r4KJ9FGCiqifoPZmH9byLQRBDG_HEhAb9haqm6jpnbqRUZJqCXM_GhTFk08E5rl7pX6ez2Woub0yhALlKw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ9dZJv1YABDQRsFV5EtLICAU",
+            "plus_code": {
+                "compound_code": "75HM+WP Hong Kong",
+                "global_code": "7PJP75HM+WP"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJ9dZJv1YABDQRsFV5EtLICAU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 137,
+            "vicinity": "Goldmark, 4/f Causeway Bay Hennessy Rd 502號, 502 Hennessy Road, Causeway Bay"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.2796066,
+                    "lng": 114.1848742
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2810066802915,
+                        "lng": 114.1862554302915
+                    },
+                    "southwest": {
+                        "lat": 22.2783087197085,
+                        "lng": 114.1835574697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "192782be31244d4935d0cf7ec1f89febf7695c51",
+            "name": "上海香港麵家",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113552370265357703623/photos\">Mabel Sin</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAG5ckrKQ2sraPKxG3jNrA1tk9e1s9SFAwkQw4MfsBUi14YvEWVsl0d2bKrK111m8rcj_zrVfUI3lojBen23PizWDAdrkt8RIWzAsCk5U9FAgJEoi9ibhot74izL7Kz1NyEhDmXmRBRqsyurabJXFoXogzGhR7kGU3spHjluoUrEcJs732CWvRtQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZSoUpFYABDQRnm9PSoUbd0Y",
+            "plus_code": {
+                "compound_code": "75HM+RW Hong Kong",
+                "global_code": "7PJP75HM+RW"
+            },
+            "rating": 3.6,
+            "reference": "ChIJZSoUpFYABDQRnm9PSoUbd0Y",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 120,
+            "vicinity": "銅鑼灣渣甸街29號號地下"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.2804155,
+                    "lng": 114.1843429
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2816449802915,
+                        "lng": 114.1856149302915
+                    },
+                    "southwest": {
+                        "lat": 22.2789470197085,
+                        "lng": 114.1829169697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a5e9013161c2a8c6196ec5afd85d95aa2891d5d2",
+            "name": "UCC Cafe City 21",
+            "photos": [
+                {
+                    "height": 3464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104427366141133870986/photos\">vicky cheng</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4epsvwBpxkjhEU26frKL563VYB3LMn6cAaRS8clAV6BHnEpsjfoUZNaYGYwyjkv8rshWT63AzLf-cmwJOaLMLgst-HhcdKiSTjf8NG--iLE4n5UA2Hx1Cz9mNJIfbq4sEhAFH8ErvalsOj-BQYo5aDGAGhRCItDeQZ3Bpzhm6ECHRum4zh_Zgg",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJ59WrllYABDQReRDTEfM2wDg",
+            "plus_code": {
+                "compound_code": "75JM+5P Hong Kong",
+                "global_code": "7PJP75JM+5P"
+            },
+            "rating": 3.3,
+            "reference": "ChIJ59WrllYABDQReRDTEfM2wDg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "銅鑼灣軒尼斯道555號崇光百貨4樓"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.279801,
+                    "lng": 114.1849765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2811079802915,
+                        "lng": 114.1862989802915
+                    },
+                    "southwest": {
+                        "lat": 22.2784100197085,
+                        "lng": 114.1836010197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "11f1282317edf358c86b7bbc587d2505006b0690",
+            "name": "Man Fai Cuttlefish Ball King",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116754936035114420887/photos\">Johnson Ho</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACvcoKF_3g9_kW5RY9xdom2rGJ2UtbdGCaspkoNcGzw0R7s8R5kx_eyqg7hmPEUqmMa6g-fVQvMqwbltaLz6MCJkgkoxqiDxcoY2nzNoOWVNBuzkeqomDB22V97QTrOidEhCVkWv2Oe3OM9PBNbfItbgFGhRVQy5hT_zkxeY0-WIzz3_r-YpWbw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJW5UNpFYABDQRUQfsgygWvSA",
+            "plus_code": {
+                "compound_code": "75HM+WX Hong Kong",
+                "global_code": "7PJP75HM+WX"
+            },
+            "rating": 3.3,
+            "reference": "ChIJW5UNpFYABDQRUQfsgygWvSA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 345,
+            "vicinity": "22-24 Jardine's Bazaar, Causeway Bay"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.279234,
+                    "lng": 114.184641
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.28058298029151,
+                        "lng": 114.1859899802915
+                    },
+                    "southwest": {
+                        "lat": 22.2778850197085,
+                        "lng": 114.1832920197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ade40d2ae53eb8ce4a5e114ad1567be4ae078527",
+            "name": "Saboten Japanese Cutlet",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2744,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115182526165493929498/photos\">Brenda Janet Ho</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASw9OcVWNcAgxTQ3ypCgU0tuDcFl9Wmc90T7RMs1T2bosB7yVOFPGSwb7xZhOwqM6igcMRMWXkWaW_g23p6_5sUyfIOxGzbDa6zVcrBBXxnFAI9DVheYlwn2FpixSYLiFEhB82qXP2enhiCtShtq5yuzbGhTBQ4henQrSy_zcKA-w4cqlLUmwuw",
+                    "width": 3932
+                }
+            ],
+            "place_id": "ChIJK_uqsVYABDQR6-zWVys3SO4",
+            "plus_code": {
+                "compound_code": "75HM+MV Hong Kong",
+                "global_code": "7PJP75HM+MV"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJK_uqsVYABDQR6-zWVys3SO4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 254,
+            "vicinity": "Lower Ground Floor, Henry House, 42 Yun Ping Road, Causeway Bay"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.2806179,
+                    "lng": 114.1852718
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2822134802915,
+                        "lng": 114.1866859802915
+                    },
+                    "southwest": {
+                        "lat": 22.27951551970849,
+                        "lng": 114.1839880197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c3c395637ef0cd9c26e3fb9a769c339596927209",
+            "name": "Sour & Spicy Noodle",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100452646219467694189/photos\">CP WoWo</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAlcMst5igF8cSPc5qc2hJw5tReDTFnvDMMY_i6ToMDpHfwcyS0zopu4gQdo9sHe8irZlns1A3QuucGq4Rvt1JPfhFWYH-woWQM_pEuSA9QUbjpMrGa-JM_q1KuntVjITvEhATvhgTuc6gaYpHz5kgOiS2GhTbwrVytj9uWZ8Uxg4n4k3rgNRCfQ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJvRqHnFYABDQRPQp30cXU00E",
+            "plus_code": {
+                "compound_code": "75JP+64 Hong Kong",
+                "global_code": "7PJP75JP+64"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJvRqHnFYABDQRPQp30cXU00E",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56,
+            "vicinity": "銅鑼灣金百利廣場5樓R3 室"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.279977,
+                    "lng": 114.184626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2813259802915,
+                        "lng": 114.1859749802915
+                    },
+                    "southwest": {
+                        "lat": 22.2786280197085,
+                        "lng": 114.1832770197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1bccb5a5605f37f7d6fb1d470c6839ae2ea43f42",
+            "name": "津味菓汁食品",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112107284321830681521/photos\">Leung Tin Tony Tong</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAop0stTISPdvi4sRdGNK1s55JGk4kDVZkTbRIPUK_nmvdTjv5o1Wajg9DO2xF0GulyzwSQ659yHcz5q1Ob1VsL1Z5Z9eafiA2FwEUOvPC5OHXyG_XnA2DCiFgMgEq3B4dEhAdz-hg4pSgE0rZZzRSCSpaGhTQDjebugdlPzUwISi9eIXsbn3jNA",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJp-YHvVYABDQR7Zvz6yCQZYc",
+            "plus_code": {
+                "compound_code": "75HM+XV Hong Kong",
+                "global_code": "7PJP75HM+XV"
+            },
+            "rating": 4,
+            "reference": "ChIJp-YHvVYABDQR7Zvz6yCQZYc",
             "scope": "GOOGLE",
             "types": [
                 "restaurant",
@@ -616,228 +549,48 @@
                 "establishment"
             ],
             "user_ratings_total": 1,
-            "vicinity": "葵涌和宜合道212號地下26號"
+            "vicinity": "Causeway Bay"
         },
         {
             "geometry": {
                 "location": {
-                    "lat": 22.371116,
-                    "lng": 114.141672
+                    "lat": 22.2792127,
+                    "lng": 114.1846448
                 },
                 "viewport": {
                     "northeast": {
-                        "lat": 22.3724649802915,
-                        "lng": 114.1430209802915
+                        "lat": 22.2805085302915,
+                        "lng": 114.1859563802915
                     },
                     "southwest": {
-                        "lat": 22.3697670197085,
-                        "lng": 114.1403230197085
+                        "lat": 22.2778105697085,
+                        "lng": 114.1832584197085
                     }
                 }
             },
             "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "67c26489f1db4ea152e40cf9682c5794c16cf4db",
-            "name": "暉記茶檔",
-            "photos": [
-                {
-                    "height": 612,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/102950107975405342073/photos\"\u003eCharlie Yuen\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRZAAAA9JOwh1AJANrSYoMXykRbHfpizYhXOgmZJ6ThhNLvSyvD7fIhO7dluZwJiMOtMJCtC8QnCsBaGHgBFfTzmQBf7TViahs3R1GsKWEgsBkQMT0Hg4EU9Vg_mNqYeSyjMZdxEhA-iehQoqSv9gekFtLII0NmGhTWtGhRyAyQhehbcHr_LqkAAqpAcw",
-                    "width": 816
-                }
-            ],
-            "place_id": "ChIJQ6xi5YL4AzQRhPGqZNowhLU",
-            "plus_code": {
-                "compound_code": "94CR+CM Hong Kong",
-                "global_code": "7PJP94CR+CM"
-            },
-            "rating": 3.7,
-            "reference": "ChIJQ6xi5YL4AzQRhPGqZNowhLU",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 3,
-            "vicinity": "葵涌安蔭邨街市6號舖"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3696039,
-                    "lng": 114.139454
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3709746802915,
-                        "lng": 114.1408262802915
-                    },
-                    "southwest": {
-                        "lat": 22.3682767197085,
-                        "lng": 114.1381283197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "ea3c7be21c4a81d58e9c0256b9326ba4f142c2c0",
-            "name": "Han Dao Restaurant",
+            "id": "8d89ad5eb10e9ef1412688bb48a158e0459efd06",
+            "name": "Casa Fina",
             "opening_hours": {
-                "open_now": true
-            },
-            "photos": [
-                {
-                    "height": 3968,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/114702470714313722597/photos\"\u003enico ma\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRaAAAAifbEZPN4dciBLX_3VLuhga-f6YfteSL9Dn9AYt-ob_lnv81Wprw-jeEUF4CG1lp1CMfxFGk7WO7bkkbGeLURK6vzWzeeeiEKxDpn8AseK3J1MHBKhmww0iXDIGlqocBAEhCbB3nyhnvqUIlp23x5Bp0UGhScelRRMzLAkdlIpF_EPDmjvne7rQ",
-                    "width": 2976
-                }
-            ],
-            "place_id": "ChIJayLzy5z4AzQRgl_9tWyE7sE",
-            "plus_code": {
-                "compound_code": "949Q+RQ Hong Kong",
-                "global_code": "7PJP949Q+RQ"
-            },
-            "price_level": 1,
-            "rating": 3.4,
-            "reference": "ChIJayLzy5z4AzQRgl_9tWyE7sE",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 99,
-            "vicinity": "77 Shek Yam Road, Shek Yam"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3711838,
-                    "lng": 114.1417988
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3725327802915,
-                        "lng": 114.1431477802915
-                    },
-                    "southwest": {
-                        "lat": 22.3698348197085,
-                        "lng": 114.1404498197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "f2eec3c574ae294d6f1c3e93710f8a50c3679fb8",
-            "name": "Fai Kee",
-            "place_id": "ChIJQ6xi5YL4AzQRZytuxfHci6o",
-            "plus_code": {
-                "compound_code": "94CR+FP Hong Kong",
-                "global_code": "7PJP94CR+FP"
-            },
-            "reference": "ChIJQ6xi5YL4AzQRZytuxfHci6o",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "vicinity": "Kiosk 6, On Yam Estate Market, Kwai Chung"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3704803,
-                    "lng": 114.1383187
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3718525802915,
-                        "lng": 114.1397799802915
-                    },
-                    "southwest": {
-                        "lat": 22.3691546197085,
-                        "lng": 114.1370820197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "ac393126db153c44e167e98481ea30924c72c0fc",
-            "name": "Poon Kee Noodles",
-            "photos": [
-                {
-                    "height": 1437,
-                    "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/108492907188625880066/photos\"\u003eQoo oo\u003c/a\u003e"
-                    ],
-                    "photo_reference": "CmRaAAAA33iEaYXtQUQJlemw1TNLqcy7y7SlXJ0l2YuhKUpBrlOoiKu8yI67JJWteDvFAp88OMhXCXz4hiydT0JRgpHC1-brJuAOSXJNKIFazN6Eg_w8UXPQmpaWpmAl-2n6aqdZEhDlUF7l4ct257Fy0hOZxa6FGhQLvLTBaLTyWm-SXBHUPG54MrTjaA",
-                    "width": 1077
-                }
-            ],
-            "place_id": "ChIJ42VLWoP4AzQR0L7uKwYcldQ",
-            "plus_code": {
-                "compound_code": "94CQ+58 Hong Kong",
-                "global_code": "7PJP94CQ+58"
-            },
-            "rating": 3.7,
-            "reference": "ChIJ42VLWoP4AzQR0L7uKwYcldQ",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 18,
-            "vicinity": "137-145號 Shek Yam Road, Kwai Chung"
-        },
-        {
-            "geometry": {
-                "location": {
-                    "lat": 22.3693621,
-                    "lng": 114.1396052
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 22.3707441802915,
-                        "lng": 114.1410028802915
-                    },
-                    "southwest": {
-                        "lat": 22.3680462197085,
-                        "lng": 114.1383049197085
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "0f445dc3ea057a10eaedf2f3b1956edc4e9d015f",
-            "name": "Hung Yuen Fish Ball Noodles",
-            "opening_hours": {
-                "open_now": true
+                "open_now": false
             },
             "photos": [
                 {
                     "height": 3024,
                     "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/109674494126215119830/photos\"\u003eNa Me\u003c/a\u003e"
+                        "<a href=\"https://maps.google.com/maps/contrib/103029177323141295178/photos\">daniel wong</a>"
                     ],
-                    "photo_reference": "CmRaAAAAQGppcqI2mEjNmNZgOfPjSAdNeDOZPEHEbVM8OR0J_vfbcwyKhbbNQfWEtZPxDCsBmaoSqjIuGBr42s3R35QRhyb-aZDKZ75JII9ksdjOVDAxCydOw7JoHEJ0s5QEhF47EhCtRWMqSda7mVkEykbg0cJYGhTU4_27Pjfsw-zwFsnJ5tmhIqMFxg",
+                    "photo_reference": "CmRaAAAASf9G8W8iFETozOpf1bfnW-Qnbd-ETlfzyIyScEraMU0jgpN_gk5KrMn9yoZp7owuj3-7dOfwOmeHVqFn4jg5VK8nhKGMcCaCqgygxY6yBYhgbTpfg8j_NwlL2n1tQd1pEhDWrf3rgS43z_Ux91sqDfxPGhSSOpZJMXZCth5_qdoytAp6btkQ8g",
                     "width": 4032
                 }
             ],
-            "place_id": "ChIJzbG6ypz4AzQRmlu7QVETzoA",
+            "place_id": "ChIJOUyrsVYABDQR9OYWWkizjPg",
             "plus_code": {
-                "compound_code": "949Q+PR Hong Kong",
-                "global_code": "7PJP949Q+PR"
+                "compound_code": "75HM+MV Hong Kong",
+                "global_code": "7PJP75HM+MV"
             },
-            "rating": 4.1,
-            "reference": "ChIJzbG6ypz4AzQRmlu7QVETzoA",
+            "rating": 4.5,
+            "reference": "ChIJOUyrsVYABDQR9OYWWkizjPg",
             "scope": "GOOGLE",
             "types": [
                 "restaurant",
@@ -845,98 +598,349 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 40,
-            "vicinity": "地下8號舖, Kam Luk Building, 79-83號 Shek Yam Road, Kwai Chung"
+            "user_ratings_total": 47,
+            "vicinity": "13樓, Henry House, 42號 Yun Ping Road, Causeway Bay"
         },
         {
             "geometry": {
                 "location": {
-                    "lat": 22.3705744,
-                    "lng": 114.1377691
+                    "lat": 22.2804185,
+                    "lng": 114.1844769
                 },
                 "viewport": {
                     "northeast": {
-                        "lat": 22.3719545302915,
-                        "lng": 114.1390815302915
+                        "lat": 22.2816464802915,
+                        "lng": 114.1856819302915
                     },
                     "southwest": {
-                        "lat": 22.3692565697085,
-                        "lng": 114.1363835697085
+                        "lat": 22.2789485197085,
+                        "lng": 114.1829839697085
                     }
                 }
             },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
-            "id": "4cac1d278476e706acdd72018115b31cf1422d18",
-            "name": "志華美食",
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "7454e33ff152502170d221ee109fbe135e4ae3f5",
+            "name": "和三昧",
+            "opening_hours": {
+                "open_now": false
+            },
             "photos": [
                 {
-                    "height": 1836,
+                    "height": 2944,
                     "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/106341676882575050786/photos\"\u003eChan Chi Wai\u003c/a\u003e"
+                        "<a href=\"https://maps.google.com/maps/contrib/115182526165493929498/photos\">Brenda Janet Ho</a>"
                     ],
-                    "photo_reference": "CmRaAAAAQP_g6Aiwf2CD7KtzMea6ZUB8UpdWe4R8RTxez2XroF5eWCsLh4P0HA05a76bwntKxl6c-C3jUwONoLUqpK_-3cy74sXhdQ272LdJF_ed0mjCAp7G9MsHBZNjUhljYPGMEhAgmxR_Q3LshZ_pxQPC0chxGhShwqJYxpGvMKqZB5IfV1DLaP9png",
-                    "width": 3264
+                    "photo_reference": "CmRaAAAAgx-Z1ApO9dVBu7AlLREvHr0BGbZBs7Uwt3mdgWSOFyf09tKICOADuTZGSj4cGDUK_hp8nB_dURVhpoRgiOSQe2V_JVqUAESLhQtM_8TfLmwOasP2TK703Lj34nk1bvkgEhBar_pNi0WGgezWsrDNLZajGhQVJL0MvTW243ZZK9iW1WWRt37Lwg",
+                    "width": 3818
                 }
             ],
-            "place_id": "ChIJMWyVp4T4AzQR72UwTY7HiiA",
+            "place_id": "ChIJcYQJlVYABDQRksdEcQEk02s",
             "plus_code": {
-                "compound_code": "94CQ+64 Hong Kong",
-                "global_code": "7PJP94CQ+64"
+                "compound_code": "75JM+5Q Hong Kong",
+                "global_code": "7PJP75JM+5Q"
             },
-            "rating": 4,
-            "reference": "ChIJMWyVp4T4AzQR72UwTY7HiiA",
+            "rating": 4.1,
+            "reference": "ChIJcYQJlVYABDQRksdEcQEk02s",
             "scope": "GOOGLE",
             "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 97,
+            "vicinity": "銅鑼灣軒尼詩道555號東角中心及東角中心(新翼)22樓"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.280516,
+                    "lng": 114.184923
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2817406302915,
+                        "lng": 114.1863309802915
+                    },
+                    "southwest": {
+                        "lat": 22.2790426697085,
+                        "lng": 114.1836330197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "37b17b3c8af67d9c89add97000a8af25585ba276",
+            "name": "築地日本料理",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3376,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115198987974092025472/photos\">Chester Leung</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyqMJXOYhQTDSiS34JknX3J91Z0XjgrZprLB0HTh29TPiHlvCdB4c9OJQ_-l5IvYoxSkk_JXG0_bYshbc_uxCX9Yr-kL5UTUPuLRGU9CkvvzDJ97rrQ0IlcIBAEkJi6PkEhA9Gk8eycuvzIzqlF0j0ncbGhRRLB0C8wWC8-SzYG0a52RS92Calg",
+                    "width": 5984
+                }
+            ],
+            "place_id": "ChIJh-RAmlYABDQRjN_oKQqAkPk",
+            "rating": 3.6,
+            "reference": "ChIJh-RAmlYABDQRjN_oKQqAkPk",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44,
+            "vicinity": "銅鑼灣記利佐治街1號金百利中心7樓R1室"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.280516,
+                    "lng": 114.184874
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2817406302915,
+                        "lng": 114.1863064802915
+                    },
+                    "southwest": {
+                        "lat": 22.2790426697085,
+                        "lng": 114.1836085197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "cf94b715a03fb7cc56e05cec66668a05baa0b255",
+            "name": "Tsukiji Japanese Restaurant",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108401108086782721017/photos\">Jean Ng</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOBoygTTopOxr0pgt5R80VsH7X-4LN-NNPVJCXx8siJz90hhXesG9DiZdszek3yDa_sVCnmZ8ciG6iqTlsHrv0q1WzuQ2MF2PHZ17aQozvtbiuypQ7Tnfuw9FAUn5B1d1EhBJvBLD-ayqH3YgQq-98OF5GhQ9Ptdjlrja5Nqq0mxBMrB3PC7OBw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJh-RAmlYABDQRyZidnOSSpsE",
+            "plus_code": {
+                "compound_code": "75JM+6W Hong Kong",
+                "global_code": "7PJP75JM+6W"
+            },
+            "rating": 3.9,
+            "reference": "ChIJh-RAmlYABDQRyZidnOSSpsE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "Room R1, 7/F, Island Beverley, 1 Great George Street, Causeway Bay"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.2804608,
+                    "lng": 114.1846058
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2816848802915,
+                        "lng": 114.1857514302915
+                    },
+                    "southwest": {
+                        "lat": 22.2789869197085,
+                        "lng": 114.1830534697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e6fe2f3babb55f5d39caba46835ea8c45cea20d0",
+            "name": "Italian Tomato",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111371499899554356672/photos\">F. L.</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFY-Np4ASPZEAFgCLjvDPzIqwEiw61aH2P-5mFt2UrPbcrpGLMncV3C4XU2PaIGvN2XZDSfuXSCtrVjve_jy3DcRfdXl1xMNS4x_NHGjRUUJnj4dRnpoVcU1YNFWWWeTeEhDrkL-TI6HBXM83tHJHAs8HGhThXnWWOhHFrV1qI7JcFgLdBoHQ-Q",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJ59WrllYABDQRM25FxQqg16E",
+            "plus_code": {
+                "compound_code": "75JM+5R Hong Kong",
+                "global_code": "7PJP75JM+5R"
+            },
+            "price_level": 2,
+            "rating": 3.1,
+            "reference": "ChIJ59WrllYABDQRM25FxQqg16E",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "555 Hennessy Road, Causeway Bay"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.2804512,
+                    "lng": 114.1849467
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2817082302915,
+                        "lng": 114.1863428302915
+                    },
+                    "southwest": {
+                        "lat": 22.27901026970849,
+                        "lng": 114.1836448697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "2a7af6bf85297527436508b016783d448e3785aa",
+            "name": "泰式食 Thai Perfect",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1046,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108177742475750263221/photos\">泰式食 Thai Perfect</a>"
+                    ],
+                    "photo_reference": "CmRZAAAALGPvR36NmA7h_WYIvSwaN1YRHdlE8tsaYVBFO93gF0SJAUA3gToeEu4T29ekiqg7x42NZAu8L6-HwIcQ-FTHPC1KNxK7zHLywHrfXwDszL0eUu7OQr9xhAtvbuhD3VMXEhDkiW-cYhaFeiYeeATAGdkAGhSbQFeLp6jOiMPI5WFlblt0o3vMqg",
+                    "width": 1047
+                }
+            ],
+            "place_id": "ChIJV38vmlYABDQRst0Pnq2srfo",
+            "plus_code": {
+                "compound_code": "75JM+5X Causeway Bay, Hong Kong",
+                "global_code": "7PJP75JM+5X"
+            },
+            "rating": 3.6,
+            "reference": "ChIJV38vmlYABDQRst0Pnq2srfo",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "金百利, 8樓，R2-3, 1號 Great George Street, Causeway Bay"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.2805426,
+                    "lng": 114.1845475
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2817157802915,
+                        "lng": 114.1857423802915
+                    },
+                    "southwest": {
+                        "lat": 22.2790178197085,
+                        "lng": 114.1830444197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "71b2242d8a70efa74ae2dc47c9329b2171b23a00",
+            "name": "Hang Heung",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112403987693678430009/photos\">Ivan Lam</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA1XVtaD3FLWCdc8Xms16EFPDzkyQunX7dhLxZRBd4QiDkUMd3u6Sy-R5IjKnoKWCeVP_kphR9tMOn3EVkDw_b5nhtmXLfVSFQi3uvpnfBsisyvsO8KN7z_ijTYvp5LTncEhB8ZFyhtd89u3PukPBPnN1bGhSNVi-BHZSGmFnwWxDBaTxafQqUtQ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJo-g3lFYABDQRd-8vdBWJAu0",
+            "plus_code": {
+                "compound_code": "75JM+6R Hong Kong",
+                "global_code": "7PJP75JM+6R"
+            },
+            "rating": 4.2,
+            "reference": "ChIJo-g3lFYABDQRd-8vdBWJAu0",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
                 "restaurant",
                 "food",
                 "store",
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 4,
-            "vicinity": "和宜合道230號6B"
+            "user_ratings_total": 22,
+            "vicinity": "崇光百貨, B2樓21號舖, 555號 Hennessy Road, Causeway Bay"
         },
         {
             "geometry": {
                 "location": {
-                    "lat": 22.3687453,
-                    "lng": 114.1394577
+                    "lat": 22.2808174,
+                    "lng": 114.1846308
                 },
                 "viewport": {
                     "northeast": {
-                        "lat": 22.3700891802915,
-                        "lng": 114.1407164302915
+                        "lat": 22.2821663802915,
+                        "lng": 114.1859797802915
                     },
                     "southwest": {
-                        "lat": 22.3673912197085,
-                        "lng": 114.1380184697085
+                        "lat": 22.2794684197085,
+                        "lng": 114.1832818197085
                     }
                 }
             },
             "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-            "id": "4e21de9be72baa9401ceabf67a036d2f14ec6a61",
-            "name": "Jin Ye Lin Restaurant",
+            "id": "6cfa408373c27a89bdf2da83311abebcd665d17c",
+            "name": "Itacho Sushi",
             "opening_hours": {
                 "open_now": true
             },
             "photos": [
                 {
-                    "height": 3006,
+                    "height": 1960,
                     "html_attributions": [
-                        "\u003ca href=\"https://maps.google.com/maps/contrib/103966141797897245024/photos\"\u003eFatkin Chan\u003c/a\u003e"
+                        "<a href=\"https://maps.google.com/maps/contrib/102076771627105151227/photos\">Joan Leung</a>"
                     ],
-                    "photo_reference": "CmRaAAAA_8NSG_blbqhmcebg8FCVN7FqpWYLPbFlY4QWSlUQ8thtP3ygQonOs21jGlHRVZ3ExbjWdduTth74wLDy9h55Z2x7I_iJ_FvkvhuNuV103-dgACp_3Md8eXEnUd93C1FSEhDGJYWOAJ4yP7ZKupWHYZnPGhSkgRWPb_aVKw-clOgSc89-_YW3EQ",
-                    "width": 5344
+                    "photo_reference": "CmRaAAAAbkPLjwwpJE-1QtpLj-31qxYsIcpWlVTr1EAE24vXSU_cOLbi-mxWjP80odgH6cIocz95Zuf0O9XjsVD5Ju7sF1EgdVy8Pd_ylCCX9zh5RewOWrlwvJO_HMQGQJYMeOcZEhBWPK656WB6-SVw1_l9ujVRGhQbLK-ERg8OOrSsjw4PifLCxoXgXA",
+                    "width": 4032
                 }
             ],
-            "place_id": "ChIJBQfhuJz4AzQRYV9Q0mLLpJw",
+            "place_id": "ChIJZ8C8mlYABDQRB03s-4nPi5A",
             "plus_code": {
-                "compound_code": "949Q+FQ Hong Kong",
-                "global_code": "7PJP949Q+FQ"
+                "compound_code": "75JM+8V Hong Kong",
+                "global_code": "7PJP75JM+8V"
             },
-            "price_level": 1,
-            "rating": 3.5,
-            "reference": "ChIJBQfhuJz4AzQRYV9Q0mLLpJw",
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJZ8C8mlYABDQRB03s-4nPi5A",
             "scope": "GOOGLE",
             "types": [
                 "restaurant",
@@ -944,8 +948,55 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 26,
-            "vicinity": "葵涌和宜合道132號號地下"
+            "user_ratings_total": 137,
+            "vicinity": "24-26 East Point Road, Causeway Bay"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.280516,
+                    "lng": 114.184923
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.2817406302915,
+                        "lng": 114.1863309802915
+                    },
+                    "southwest": {
+                        "lat": 22.2790426697085,
+                        "lng": 114.1836330197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4165b5d739863ab528f396a39f4528d88e4506ab",
+            "name": "Saigon Saigon",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104397727958783070007/photos\">Saurav Prakash</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAEZjRJvPMH4pxHawNYMZ17eniK-HMyblMqLWa4GkDz1t2b6RQGz1NTIRS7IJEocTeHK91KkBS6UQe5vfysFnTfiuU6B8qOnGgxcev7D8n57nBnlg294AJYR-q_z7OHE95EhAHdPAbyYSssWebLximVpJeGhTIBpo-KsRUadfVsabHboqvzUFvYw",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJN2NHmlYABDQR68V9jqsYRHI",
+            "price_level": 2,
+            "rating": 3.5,
+            "reference": "ChIJN2NHmlYABDQR68V9jqsYRHI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "記利佐治街1號金百利廣場7樓R4室, R4 7/F Island Beverley 1 Great George Street Causeway Bay"
         }
     ],
     "status": "OK"

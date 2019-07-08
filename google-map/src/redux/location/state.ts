@@ -5,5 +5,7 @@ export interface LatLng{
 
 export interface ILocationState{
     coordinate: LatLng,
-    zoom: number
+    currentCoordinate?: LatLng,
+    zoom: number,
+    msg?:string
 }

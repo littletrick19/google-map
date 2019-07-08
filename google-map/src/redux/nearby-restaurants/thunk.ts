@@ -1,16 +1,20 @@
 import { LatLng } from '../location/state'
 import { ThunkDispatch } from '../../store';
-import { fetchSuccess, fetchFail } from './action';
+import { fetchSuccess, fetchFail, fetchClear } from './action';
 import { IRestaurant } from './state';
-import * as data from '../../sample-data.json'
+import { initialState } from '../location/reducer';
 
 export const fetchRestaurant = (coordinate:LatLng)=>{
     return async (dispatch:ThunkDispatch)=>{
-        // const res = await fetch(`https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${coordinate.lat},${coordinate.lng}&radius=100&type=restaurant&key=${process.env.REACT_APP_GOOGLE_MAP_API_KEY}`,{
-        //     method:"GET",
-        // })
-        // const data = await res.json();
-        // if(res.status === 200 && data.status === "OK"){
+        dispatch(fetchClear());
+        let data = require('../../sample-data.json')
+        if(coordinate !== initialState.coordinate) {
+            const res = await fetch(`${process.env.REACT_APP_AWS_LAMBDA_API}?lat=${coordinate.lat}&lng=${coordinate.lng}`,{
+                method:"GET",
+            })
+            data = await res.json();
+        }
+        if(data.status === "OK"){
             const restaurants = [] as IRestaurant[];
             data.results.forEach((result:any)=>{
                 const restaurant = {} as any;
@@ -27,8 +31,9 @@ export const fetchRestaurant = (coordinate:LatLng)=>{
                 restaurants.push(restaurant);
             })
                 dispatch(fetchSuccess(restaurants))
-        // }else{
-        //     dispatch(fetchFail(data.error_message))
-        // }
+        }else{
+            dispatch(fetchFail(data.error_message))
+        }
+
     }
 }

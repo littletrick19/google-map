@@ -1,0 +1,952 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CrQCIQEAAFQzN-uXzNp3uWqWJDs-lXiakLGH7mlJ5UBiueqBVMfoJ5qIfo8XrIUDcaC_I4Wv50p35ofPDTe5u1ue5y7nOp_XtHvdO2OSwQ0PVInxIl7XrAqIlltX7Fqf0HMlG8seVTKU0YsI4TfsZkxVpdFq7w-QTVzbz0IOD5uBb1BVrP6DKy3zvCWdYNvOO3Oy9BCjig9JEBgpfuLMzAtXghvmO4HvfSlDUl4ry2AN_XyTmQ6clfkaFT1Nnr-P6Q3O0BeqGGfiFqm9UNv_aaX_ABlvLWCgMAwDY8L6UQ3_H49TPY3oFgsmzOGH_yGowaC3311vsGrT6iYxVHKWvS9riiC5viytjLOvfC5AsykMDbP_9e2fvzYv40ujii_gQeyIHYJDAfwTjtnu-1bEM12Sxzebl58SEO7WmB6TQchIYKU4GXKwhnUaFI6RK2zTH303UeXoxZXI6KpT1EGq",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3713671,
+                    "lng": 114.1387429
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3727160802915,
+                        "lng": 114.1400918802915
+                    },
+                    "southwest": {
+                        "lat": 22.3700181197085,
+                        "lng": 114.1373939197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "69030a2be9fe81cc3db1267412909985e3112017",
+            "name": "McDonald's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/104680874746921766223/photos\"\u003eRicky Chan\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAr8vM_GwWlMyV7IVihvOsZUEDi9r7WJgd4GyEBLTl9CCAWPPPuk2YYgDCHL3DLga3W0slrmIyfURdyksnUdeIRWsq927NPtbdJkxtMzWuO4Tkc-fRx7uyID0AOMTBbTO7EhCZsqMHVCN5CFrYie8eQQ80GhSoNOFihXMd3ezAJXLnJFZHIZb91A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJeem0ZYP4AzQRc-CJXq2a7xA",
+            "plus_code": {
+                "compound_code": "94CQ+GF Kwai Chung, Hong Kong",
+                "global_code": "7PJP94CQ+GF"
+            },
+            "price_level": 1,
+            "rating": 3.4,
+            "reference": "ChIJeem0ZYP4AzQRc-CJXq2a7xA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 81,
+            "vicinity": "葵涌石蔭邨石蔭商場二樓213及214號舖"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3708611,
+                    "lng": 114.1379734
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3722323802915,
+                        "lng": 114.1392862302915
+                    },
+                    "southwest": {
+                        "lat": 22.3695344197085,
+                        "lng": 114.1365882697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "66b34fff549334ee65736a23c5ba4d63c6c17d28",
+            "name": "Yunnan Noodle",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/118007985524377502664/photos\"\u003eCC K\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAACtv62GX33HbKeCI-5AvuMSA_ZbDMrtomC-JubgGDtQSmaB5o2-HLl6yciZafAbFI08J45QKe08QC0qKW2qqcYBPpXzUzHMdGfIdWEI_YGeXx66Pq_UjhQpXpEM-cSW32EhDnvWRgxpxe9RmGOR12WlklGhTXAVCMzw5FQKT8T2HJx_PQFx_UQQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ0zPiX4P4AzQRBRRRLS0sVQg",
+            "plus_code": {
+                "compound_code": "94CQ+85 Hong Kong",
+                "global_code": "7PJP94CQ+85"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJ0zPiX4P4AzQRBRRRLS0sVQg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 208,
+            "vicinity": "112 Lei Muk Road, Kwai Chung"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3715585,
+                    "lng": 114.1385939
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.37290748029151,
+                        "lng": 114.1399428802915
+                    },
+                    "southwest": {
+                        "lat": 22.3702095197085,
+                        "lng": 114.1372449197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e53adba86155ec5cb03ddbfaf41d86e54caae817",
+            "name": "鳴門創作料理",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/114163153574320908865/photos\"\u003eTak Kan Lau\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAhIEuph8DGSPkdxwVrKLmhMOhkOwOfu0r1dw381_Da-Tosls46dNG_rJGHzWSl6siSmVPrrSSOP-9LO1F07i0tyKHbGLNzIh9p2U76l6bZRvFCcWb1eoTBZTHcSxOvk_wEhDNd1TqUTCOrf9KsUO40ucNGhR4pL2GFrpkzOxgVp4aePpYxNAqVQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-fjHZYP4AzQRBCB5DxAXBjk",
+            "plus_code": {
+                "compound_code": "94CQ+JC Hong Kong",
+                "global_code": "7PJP94CQ+JC"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ-fjHZYP4AzQRBCB5DxAXBjk",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "葵涌石蔭邨石蔭商場LG205-206號舖"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3707269,
+                    "lng": 114.1418857
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3720376802915,
+                        "lng": 114.1432140302915
+                    },
+                    "southwest": {
+                        "lat": 22.3693397197085,
+                        "lng": 114.1405160697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e7c6c74b9b826d1132ee09b56061df94b8d679a5",
+            "name": "Fairwood",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/104732482279735146246/photos\"\u003eFanny Ng\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAACoKRosUrCZAFJ8jrPwBOUbOEzJkYobKvhoZcPpXAcTmnAicRETecV9abZEXLvvAHLLg5FMR2HNhIJbGfsQg3Uc_J2fbTB9_V-5iwiV6GGKPxOfxFzs3vrfBkWgy6rYMOEhDgGniDxWF97fsxx_2FTLhmGhRLEo7BwOvUyseZclNrSxs8g21PoQ",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJG3-C5YL4AzQRPUlBY9Zto7Q",
+            "plus_code": {
+                "compound_code": "94CR+7Q Hong Kong",
+                "global_code": "7PJP94CR+7Q"
+            },
+            "price_level": 1,
+            "rating": 3.2,
+            "reference": "ChIJG3-C5YL4AzQRPUlBY9Zto7Q",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64,
+            "vicinity": "葵涌安蔭村安蔭商場地下2號舖"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.36938679999999,
+                    "lng": 114.1391227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3706895802915,
+                        "lng": 114.1404237802915
+                    },
+                    "southwest": {
+                        "lat": 22.36799161970849,
+                        "lng": 114.1377258197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "630ef1b7332062fca5f460ce0125e0410e576271",
+            "name": "Hoi Fa Kit Guo",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4248,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/117598864830856317980/photos\"\u003eFrankie Wong\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAA7eiwDGVqszW15lBzktCWdoebgrEGulr8xWKSWAuCnOxQJ64dBnjW1dO1ZqCQfc2bq7fjAbMP181BMCXY7FVA-XJHKZxfJaqOchUFKiWVsJUqlfiahcjyv_0ySTagfFRdEhASJ19NVB2SrEv-5L8HdIibGhSn2D576xxssA-kdkwEkkg6bj22lQ",
+                    "width": 5664
+                }
+            ],
+            "place_id": "ChIJQ_Katpz4AzQR6MpAln8kZQg",
+            "plus_code": {
+                "compound_code": "949Q+QJ Hong Kong",
+                "global_code": "7PJP949Q+QJ"
+            },
+            "rating": 4.1,
+            "reference": "ChIJQ_Katpz4AzQR6MpAln8kZQg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108,
+            "vicinity": "葵涌和宜合道166號地下9號舖"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3713851,
+                    "lng": 114.1387771
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3727340802915,
+                        "lng": 114.1401260802915
+                    },
+                    "southwest": {
+                        "lat": 22.3700361197085,
+                        "lng": 114.1374281197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a2bcf4fb1383a01442cd6d500a95167c517566b2",
+            "name": "Maxim's Mx - Shek Yam",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/100090392719636724988/photos\"\u003eHerman Lui\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAtsxyf62OD9qyR4Ks3e8pIkLh7Pic8NtcGLIDfp1DJZaAvOYsNS7-NoiPQkRIg-mjgU9tCWV2WHvodvk6NgOuSoJwdPtbjXW9LAYCU4VwOhheqgNQ8ZvU3V0KmSiWedXBEhCqRQOOsHHftt9QrtKDZ0AFGhQyiaHCNP1gdYgkXB8fj4ry3nVq_g",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJGTSnZoP4AzQRyk51G_Ks_kU",
+            "plus_code": {
+                "compound_code": "94CQ+HG Hong Kong",
+                "global_code": "7PJP94CQ+HG"
+            },
+            "price_level": 2,
+            "rating": 3.4,
+            "reference": "ChIJGTSnZoP4AzQRyk51G_Ks_kU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Kwai Chung"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.371555,
+                    "lng": 114.13861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3729039802915,
+                        "lng": 114.1399589802915
+                    },
+                    "southwest": {
+                        "lat": 22.3702060197085,
+                        "lng": 114.1372610197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e898349d0676aab836f8db078999cc55b66c46c8",
+            "name": "Ngan Lung Restaurant-shek Yam Estate",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/103335330130922325091/photos\"\u003eZilla Hui\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAlqR0WCMgeDKJbtoIqPxe_kl0d5hNlJ7rQsEioosHe0U-TuLbCMC8o9ZFs-QZ9S9n0zOuwaxQ7gR_BQFAEWtKxbWOt-UJ5h5lrCYXORggUtqmAkxCQEU9gvD4vkqBs4zlEhA2wLtJWaaBHUejC4W0AihpGhSf3_gJrXQ7cx6dPoPWtkO7ISmCiw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJo84ko4P4AzQRKChq4Mqx8aU",
+            "plus_code": {
+                "compound_code": "94CQ+JC Hong Kong",
+                "global_code": "7PJP94CQ+JC"
+            },
+            "price_level": 2,
+            "rating": 3.3,
+            "reference": "ChIJo84ko4P4AzQRKChq4Mqx8aU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "石蔭商場9號舖"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3708778,
+                    "lng": 114.1384914
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3722267802915,
+                        "lng": 114.1398403802915
+                    },
+                    "southwest": {
+                        "lat": 22.36952881970849,
+                        "lng": 114.1371424197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "21169fd9d8c023067d4cebe4d967f43cd2601da0",
+            "name": "Ocean Treasure Seafood Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/117371814726805622559/photos\"\u003eTommy Law羅\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAtv5kYo8HDVKq_ZZTsYQn6dV0MUa3RyuA0FJzYnqMv8VHFSiXAYn8PrfgnyDD53hGlgjnAG7FCJW11XaQnKpzmpgbCImgerf9kP3CCIkFXUvGe-1olL8Zq5rBglGYKLnPEhDLVj8vIjQMWFZ9DR-BbkSOGhT081VAnoLxnmTAOX4FCpx0D15saA",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJMR73Q4P4AzQRc475ctmD-k8",
+            "plus_code": {
+                "compound_code": "94CQ+99 Hong Kong",
+                "global_code": "7PJP94CQ+99"
+            },
+            "price_level": 2,
+            "rating": 3.4,
+            "reference": "ChIJMR73Q4P4AzQRc475ctmD-k8",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 87,
+            "vicinity": "葵涌石蔭路149-151號福蔭大廈地下及二樓"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3692678,
+                    "lng": 114.1392619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3705720302915,
+                        "lng": 114.1405483802915
+                    },
+                    "southwest": {
+                        "lat": 22.3678740697085,
+                        "lng": 114.1378504197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ff3c58657b4d930d31e188b513ace24fbf9928af",
+            "name": "Lily's Dumpling Kingdom",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/114118776566826978542/photos\"\u003eJeff Choi\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAA44e0OXR-W-3D1mtA6tQ3mfWbehA3oqnW7rew6xz6MRy4x9Xl_T5w_0RVQ0pseUOhqUcq19m6UWcQyamqAHgwMSfU7DnNbtrod1Giz5MtcNPgLx6iXPU1stjUXMTWRJRPEhCWTVYkloBH_ewe3Q6JjEI6GhRlG5G4zy5PIkwMOq18wbnKs3sN4g",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJrQv0tJz4AzQRpsZiWT31nfs",
+            "plus_code": {
+                "compound_code": "949Q+PP Hong Kong",
+                "global_code": "7PJP949Q+PP"
+            },
+            "rating": 3.2,
+            "reference": "ChIJrQv0tJz4AzQRpsZiWT31nfs",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "148 Wo Yi Hop Road, Shek Yam"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3707734,
+                    "lng": 114.1379178
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3721223802915,
+                        "lng": 114.1392667802915
+                    },
+                    "southwest": {
+                        "lat": 22.3694244197085,
+                        "lng": 114.1365688197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e27976aec28745ec2c691a46f3e79ae14991ca87",
+            "name": "家家樂素食快餐廳",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/104733929501244059430/photos\"\u003eCristo Wong\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAXop2TUd0AK6uzfxhRbNW3AxYtUB1w0tLgKKh1ADzcfuwTBWO2KSpiIuUdUrfJ0iWIbYAtwxzPP83BDlkj_gKtwDGIvVTgdu-9H-jyw3-6es62aSRqk7v-sTJRyw9tIvNEhCWDEOZtQaGsUv5nP2Q52HdGhTuHCph7RSn8stictpuZm4t_s9OCA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ0zPiX4P4AzQR3RVvvpkDhIE",
+            "plus_code": {
+                "compound_code": "94CQ+85 Hong Kong",
+                "global_code": "7PJP94CQ+85"
+            },
+            "rating": 4,
+            "reference": "ChIJ0zPiX4P4AzQR3RVvvpkDhIE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "葵涌梨木道112號葵寶大廈7號地下"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.371546,
+                    "lng": 114.138592
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3728949802915,
+                        "lng": 114.1399409802915
+                    },
+                    "southwest": {
+                        "lat": 22.3701970197085,
+                        "lng": 114.1372430197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a7059b64556b5498f59b4cf7c2e760e73b82dbd2",
+            "name": "Naruto Creative Cuisine",
+            "place_id": "ChIJ-fjHZYP4AzQRxIy4mTfPHpg",
+            "plus_code": {
+                "compound_code": "94CQ+JC Hong Kong",
+                "global_code": "7PJP94CQ+JC"
+            },
+            "reference": "ChIJ-fjHZYP4AzQRxIy4mTfPHpg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Shop LG205-206, G/F, Shek Yam Shopping Centre, Shek Yam Estate, Kwai Chung"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3707734,
+                    "lng": 114.1379178
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3721223802915,
+                        "lng": 114.1392667802915
+                    },
+                    "southwest": {
+                        "lat": 22.3694244197085,
+                        "lng": 114.1365688197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "0a9915f855f224135f31f0142923ae5695a1d930",
+            "name": "Ka Ka Lok Fast Food Shop",
+            "place_id": "ChIJ0zPiX4P4AzQR9xcj2myd9PU",
+            "plus_code": {
+                "compound_code": "94CQ+85 Hong Kong",
+                "global_code": "7PJP94CQ+85"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ0zPiX4P4AzQR9xcj2myd9PU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Shop 7, G/F, Kwai Po Building, 112 Lei Muk Road, Kwai Chung"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3700482,
+                    "lng": 114.1383238
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3713654802915,
+                        "lng": 114.1396401802915
+                    },
+                    "southwest": {
+                        "lat": 22.3686675197085,
+                        "lng": 114.1369422197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c77da358dfe4a87928e3b69c2be4c312c2df0ab2",
+            "name": "金森林小食店",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/116980833639004728804/photos\"\u003e肥邦邦\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAbRA95_w0zSMjYnfhF7Xe8tPxVGlcncCVBFwr63v3B52G7Epdbf5Chs_hrM8swVSdrxSBuZ7l41iBviKQt5dK7icIzzbdkBMkKAZOqniOPAehxUYsO9GVWaw-t4QhWz1_EhCfSqbweop_VKxnVnFeDkgdGhScKCfEYyjZoCgD0vid_oFGm3kPGw",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJqR9sVoP4AzQRS6Ois5ELCtk",
+            "plus_code": {
+                "compound_code": "94CQ+28 Hong Kong",
+                "global_code": "7PJP94CQ+28"
+            },
+            "rating": 5,
+            "reference": "ChIJqR9sVoP4AzQRS6Ois5ELCtk",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "葵涌和宜合道212號地下26號"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.371116,
+                    "lng": 114.141672
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3724649802915,
+                        "lng": 114.1430209802915
+                    },
+                    "southwest": {
+                        "lat": 22.3697670197085,
+                        "lng": 114.1403230197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "67c26489f1db4ea152e40cf9682c5794c16cf4db",
+            "name": "暉記茶檔",
+            "photos": [
+                {
+                    "height": 612,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/102950107975405342073/photos\"\u003eCharlie Yuen\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRZAAAA9JOwh1AJANrSYoMXykRbHfpizYhXOgmZJ6ThhNLvSyvD7fIhO7dluZwJiMOtMJCtC8QnCsBaGHgBFfTzmQBf7TViahs3R1GsKWEgsBkQMT0Hg4EU9Vg_mNqYeSyjMZdxEhA-iehQoqSv9gekFtLII0NmGhTWtGhRyAyQhehbcHr_LqkAAqpAcw",
+                    "width": 816
+                }
+            ],
+            "place_id": "ChIJQ6xi5YL4AzQRhPGqZNowhLU",
+            "plus_code": {
+                "compound_code": "94CR+CM Hong Kong",
+                "global_code": "7PJP94CR+CM"
+            },
+            "rating": 3.7,
+            "reference": "ChIJQ6xi5YL4AzQRhPGqZNowhLU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "葵涌安蔭邨街市6號舖"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3696039,
+                    "lng": 114.139454
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3709746802915,
+                        "lng": 114.1408262802915
+                    },
+                    "southwest": {
+                        "lat": 22.3682767197085,
+                        "lng": 114.1381283197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ea3c7be21c4a81d58e9c0256b9326ba4f142c2c0",
+            "name": "Han Dao Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3968,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/114702470714313722597/photos\"\u003enico ma\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAifbEZPN4dciBLX_3VLuhga-f6YfteSL9Dn9AYt-ob_lnv81Wprw-jeEUF4CG1lp1CMfxFGk7WO7bkkbGeLURK6vzWzeeeiEKxDpn8AseK3J1MHBKhmww0iXDIGlqocBAEhCbB3nyhnvqUIlp23x5Bp0UGhScelRRMzLAkdlIpF_EPDmjvne7rQ",
+                    "width": 2976
+                }
+            ],
+            "place_id": "ChIJayLzy5z4AzQRgl_9tWyE7sE",
+            "plus_code": {
+                "compound_code": "949Q+RQ Hong Kong",
+                "global_code": "7PJP949Q+RQ"
+            },
+            "price_level": 1,
+            "rating": 3.4,
+            "reference": "ChIJayLzy5z4AzQRgl_9tWyE7sE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 99,
+            "vicinity": "77 Shek Yam Road, Shek Yam"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3711838,
+                    "lng": 114.1417988
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3725327802915,
+                        "lng": 114.1431477802915
+                    },
+                    "southwest": {
+                        "lat": 22.3698348197085,
+                        "lng": 114.1404498197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f2eec3c574ae294d6f1c3e93710f8a50c3679fb8",
+            "name": "Fai Kee",
+            "place_id": "ChIJQ6xi5YL4AzQRZytuxfHci6o",
+            "plus_code": {
+                "compound_code": "94CR+FP Hong Kong",
+                "global_code": "7PJP94CR+FP"
+            },
+            "reference": "ChIJQ6xi5YL4AzQRZytuxfHci6o",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Kiosk 6, On Yam Estate Market, Kwai Chung"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3704803,
+                    "lng": 114.1383187
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3718525802915,
+                        "lng": 114.1397799802915
+                    },
+                    "southwest": {
+                        "lat": 22.3691546197085,
+                        "lng": 114.1370820197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ac393126db153c44e167e98481ea30924c72c0fc",
+            "name": "Poon Kee Noodles",
+            "photos": [
+                {
+                    "height": 1437,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/108492907188625880066/photos\"\u003eQoo oo\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAA33iEaYXtQUQJlemw1TNLqcy7y7SlXJ0l2YuhKUpBrlOoiKu8yI67JJWteDvFAp88OMhXCXz4hiydT0JRgpHC1-brJuAOSXJNKIFazN6Eg_w8UXPQmpaWpmAl-2n6aqdZEhDlUF7l4ct257Fy0hOZxa6FGhQLvLTBaLTyWm-SXBHUPG54MrTjaA",
+                    "width": 1077
+                }
+            ],
+            "place_id": "ChIJ42VLWoP4AzQR0L7uKwYcldQ",
+            "plus_code": {
+                "compound_code": "94CQ+58 Hong Kong",
+                "global_code": "7PJP94CQ+58"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ42VLWoP4AzQR0L7uKwYcldQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "137-145號 Shek Yam Road, Kwai Chung"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3693621,
+                    "lng": 114.1396052
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3707441802915,
+                        "lng": 114.1410028802915
+                    },
+                    "southwest": {
+                        "lat": 22.3680462197085,
+                        "lng": 114.1383049197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "0f445dc3ea057a10eaedf2f3b1956edc4e9d015f",
+            "name": "Hung Yuen Fish Ball Noodles",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/109674494126215119830/photos\"\u003eNa Me\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAQGppcqI2mEjNmNZgOfPjSAdNeDOZPEHEbVM8OR0J_vfbcwyKhbbNQfWEtZPxDCsBmaoSqjIuGBr42s3R35QRhyb-aZDKZ75JII9ksdjOVDAxCydOw7JoHEJ0s5QEhF47EhCtRWMqSda7mVkEykbg0cJYGhTU4_27Pjfsw-zwFsnJ5tmhIqMFxg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzbG6ypz4AzQRmlu7QVETzoA",
+            "plus_code": {
+                "compound_code": "949Q+PR Hong Kong",
+                "global_code": "7PJP949Q+PR"
+            },
+            "rating": 4.1,
+            "reference": "ChIJzbG6ypz4AzQRmlu7QVETzoA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "地下8號舖, Kam Luk Building, 79-83號 Shek Yam Road, Kwai Chung"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3705744,
+                    "lng": 114.1377691
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3719545302915,
+                        "lng": 114.1390815302915
+                    },
+                    "southwest": {
+                        "lat": 22.3692565697085,
+                        "lng": 114.1363835697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4cac1d278476e706acdd72018115b31cf1422d18",
+            "name": "志華美食",
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/106341676882575050786/photos\"\u003eChan Chi Wai\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAQP_g6Aiwf2CD7KtzMea6ZUB8UpdWe4R8RTxez2XroF5eWCsLh4P0HA05a76bwntKxl6c-C3jUwONoLUqpK_-3cy74sXhdQ272LdJF_ed0mjCAp7G9MsHBZNjUhljYPGMEhAgmxR_Q3LshZ_pxQPC0chxGhShwqJYxpGvMKqZB5IfV1DLaP9png",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJMWyVp4T4AzQR72UwTY7HiiA",
+            "plus_code": {
+                "compound_code": "94CQ+64 Hong Kong",
+                "global_code": "7PJP94CQ+64"
+            },
+            "rating": 4,
+            "reference": "ChIJMWyVp4T4AzQR72UwTY7HiiA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "和宜合道230號6B"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 22.3687453,
+                    "lng": 114.1394577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.3700891802915,
+                        "lng": 114.1407164302915
+                    },
+                    "southwest": {
+                        "lat": 22.3673912197085,
+                        "lng": 114.1380184697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4e21de9be72baa9401ceabf67a036d2f14ec6a61",
+            "name": "Jin Ye Lin Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3006,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/103966141797897245024/photos\"\u003eFatkin Chan\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAA_8NSG_blbqhmcebg8FCVN7FqpWYLPbFlY4QWSlUQ8thtP3ygQonOs21jGlHRVZ3ExbjWdduTth74wLDy9h55Z2x7I_iJ_FvkvhuNuV103-dgACp_3Md8eXEnUd93C1FSEhDGJYWOAJ4yP7ZKupWHYZnPGhSkgRWPb_aVKw-clOgSc89-_YW3EQ",
+                    "width": 5344
+                }
+            ],
+            "place_id": "ChIJBQfhuJz4AzQRYV9Q0mLLpJw",
+            "plus_code": {
+                "compound_code": "949Q+FQ Hong Kong",
+                "global_code": "7PJP949Q+FQ"
+            },
+            "price_level": 1,
+            "rating": 3.5,
+            "reference": "ChIJBQfhuJz4AzQRYV9Q0mLLpJw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "葵涌和宜合道132號號地下"
+        }
+    ],
+    "status": "OK"
+}

@@ -14,14 +14,14 @@ export const fetchFail = (msg:string)=>{
     }
 }
 
-export const clearMsg = ()=>{
+export const fetchClear = ()=>{
     return{
-        type: "@@CLEAR_MSG" as "@@CLEAR_MSG"
+        type: "@@FETCH_CLEAR" as "@@FETCH_CLEAR"
     }
 }
 
 type NearbyRestaurantActionsCreator = typeof fetchSuccess|
                                         typeof fetchFail|
-                                        typeof clearMsg
-
+                                        typeof fetchClear
+                                        
 export type INearbyRestaurantActions = ReturnType<NearbyRestaurantActionsCreator>
