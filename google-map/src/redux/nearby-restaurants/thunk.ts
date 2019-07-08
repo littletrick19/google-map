@@ -8,7 +8,7 @@ export const fetchRestaurant = (coordinate:LatLng)=>{
     return async (dispatch:ThunkDispatch)=>{
         dispatch(fetchClear());
         let data = require('../../sample-data.json')
-        if(coordinate !== initialState.coordinate) {
+        if(coordinate !== initialState.currentCoordinate) {
             const res = await fetch(`${process.env.REACT_APP_AWS_LAMBDA_API}?lat=${coordinate.lat}&lng=${coordinate.lng}`,{
                 method:"GET",
             })

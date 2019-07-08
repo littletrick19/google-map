@@ -13,7 +13,7 @@ interface IMapProps {
   location: ILocationState,
   restaurants: IRestaurant[],
   fetchRestaurant: (coordinate: LatLng) => void,
-  onMarkerClick: (i:number|null)=>void
+  onMarkerClick: (i:number|undefined)=>void
 }
 
 const Map: React.FC<IMapProps> = (props: IMapProps) => {
@@ -22,8 +22,8 @@ const Map: React.FC<IMapProps> = (props: IMapProps) => {
   })
 
   useEffect(() => {
-    props.fetchRestaurant(props.location.coordinate)
-  },[props.location.coordinate])
+    props.fetchRestaurant(props.location.currentCoordinate)
+  },[props.location.currentCoordinate])
 
   const render = () => {
     return (
@@ -48,7 +48,7 @@ const Map: React.FC<IMapProps> = (props: IMapProps) => {
                 position={restaurant.coordinate}
                 clusterer={clusterer}
                 onMouseDown={props.onMarkerClick.bind(i,i)}
-                onMouseUp={props.onMarkerClick.bind(i,null)}
+                onMouseUp={props.onMarkerClick.bind(i,undefined)}
               />
             ))
           }

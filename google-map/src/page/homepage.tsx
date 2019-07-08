@@ -16,9 +16,9 @@ interface IHomeProps{
 }
 
 const Homepage: React.FC<IHomeProps> = (props:IHomeProps)=>{
-    const [detail, setDetail] = useState<number|null>(null)
+    const [detail, setDetail] = useState<number|undefined>(undefined)
     const [coordinate, setCoordinate] = useState<LatLng|undefined>(undefined)
-    const handleClick = (i:number|null)=>{
+    const handleClick = (i:number|undefined)=>{
         setDetail(i);
     }
 
@@ -44,7 +44,7 @@ const Homepage: React.FC<IHomeProps> = (props:IHomeProps)=>{
         return(
             <div id="homepage">
                 <List />
-                {detail && <Detail restaurant={props.restaurants[detail]}/>}
+                {(detail !==undefined) && <Detail restaurant={props.restaurants[detail]}/>}
                 <span id="location-button" onClick={getGeoLocation}>Test<MdMyLocation/></span>
                 <Map onMarkerClick={handleClick}/>
             </div>
